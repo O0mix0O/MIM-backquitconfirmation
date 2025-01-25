@@ -7,7 +7,8 @@
             title: "Are you sure you want to quit?",
             text: "Press 'back' again to exit, or 'OK' to stay",
             customClass: {
-                popup: 'swal-infront',
+                container: 'swal2-container swal2-center swal-infront swal2-backdrop-show',
+                popup: 'swal2-modal'
             },
         });
     }
