@@ -9,3 +9,5 @@ The **Confirm Quit Mod** is a custom modification for Melvor Idle that prevents 
 - **Back Button Prevention**: When the back button is pressed, the default navigation action is blocked.
 - **Quit Confirmation Modal**: A SweetAlert2 modal is shown, asking the user if they are sure they want to quit.
 - **Double Back Press Handling**: The user must confirm their intention by pressing 'OK' or 'Cancel' before the app can close.
+
+.
